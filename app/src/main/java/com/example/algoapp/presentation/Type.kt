@@ -1,4 +1,4 @@
-package com.example.algoapp.ui.theme
+package com.example.algoapp.presentation
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
