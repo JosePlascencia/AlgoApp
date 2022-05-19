@@ -1,4 +1,4 @@
-package com.example.algoapp.presentation.algo_list.components
+package com.example.algoapp.presentation.algoListScreen.components
 
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
